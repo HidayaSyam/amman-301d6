@@ -1,0 +1,59 @@
+header{
+    width: 99%;
+    padding-top: 15px;
+    padding-left: 3px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+nav div ul 
+{
+    float: right;
+    margin-top: -50px;
+}
+ nav div ul li{
+     display: inline-block;
+     padding:1px;
+      
+ }
+nav div a{
+
+    text-decoration: none;
+}
+nav div h1{
+    top:0;
+    padding-left: 50px;
+    margin-top: -50px;
+    
+    font-family: 'Pacifico', cursive;
+    font-size: 32px;
+}
+nav div p{
+    padding-left: 50px;
+    
+}
+nav div img {
+    width: 50px;
+    height: 50px;
+}
+
+ul li a img{
+    
+    width: 25px;
+    height: 25px;
+
+}
+
+footer{
+    margin-top: 120px;
+}
+footer img{
+    margin-left: 50%;
+}
+
+footer p{
+    margin-left: 43%;
+}
+footer p:nth-child(2)
+{
+    margin-left:675px;
+}
